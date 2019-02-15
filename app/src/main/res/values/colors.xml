@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="loginColor">#FB977D</color>
+    <color name="blue">#4054B2</color>
+    <color name="lightOrange">#FBC962</color>
+    <color name="snow">#FAFAFA</color>
+    <color name="lightAqua">#CDEDD7</color>
+    <color name="aqua">#7CCBC5</color>
+    <color name="lightRed">#FB987E</color>
+    <color name="violet">#9b2fae</color>
+</resources>
